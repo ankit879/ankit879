@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit879
 - 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... Android Development
 - 💞️ I’m looking to collaborate on ...IT
 - 📫 How to reach me ...IT companies
 
